@@ -1,0 +1,257 @@
+.img-profile {
+	margin-top:25px;
+    margin-bottom: 10px;
+    border: 1px solid #34495e;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333333;
+    
+}
+.form-inline .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.table-bordered {
+    border: 1px solid #dddddd;
+}
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.green {
+    background-color: #16a085;
+}
+
+.orange {
+    background-color: #f39c12;
+}
+.blue {
+    background-color: #2980b9;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #555555;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-bottom-color: transparent;
+    cursor: default;
+}
+
+.btn-green {
+    border-color: #15987e;
+    color: #fff;
+    background-color: #16a085;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.table-responsive{
+	margin-bottom: 25px;
+}
+.profile-edit {
+    display: block;
+}
+.fa-facebook-square:hover {
+	color: #104E8B;
+}
+.fa-twitter-square:hover {
+    color: #00B2EE;
+}
+.fa-linkedin-square:hover {
+    color: #00B2EE;
+}
+.fa-google-plus-square:hover {
+    color: #CD3333;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+.label-default{
+	background-color: #314559;
+	color: white;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+    color: #666666;
+}
+.btn-submit{
+	border-color: #314559;
+    color: #fff;
+    background-color: #34495e;
+}
+..nav-pills>li.active>a{
+	border-color: #34495e;
+    background-color: #34495e;
+}
+.nav-stacked>li>a {
+    border-radius: 0;
+    border-top: 0;
+    border-left: 3px solid transparent;
+    color: #34495e;
+}
+a:focus, a:hover {
+    color: #34495e;
+    text-decoration: underline;
+}
+.form-group>label{
+    display:block;
+    clear:both;
+    width:100%;
+}
+.navbar-fixed-top{
+    margin-top:40px;
+}
+.top-bar-light {
+    background-color: #f3f3f3;
+}
+.top-dark-right li {
+    line-height: 40px;
+    border-left: 1px solid #bbb;
+    padding: 0px 10px;
+}
+.top-dark-right li, .top-dark-right li a {
+    color: #bbb;
+    font-size: 12px;
+}
+.text-right{
+    float:right;
+    text-align:right;
+}
+.woocommerce form.login, .woocommerce form.register {
+    border: 1px solid #d3ced2;
+    padding: 20px;
+    margin: 2em 0;
+    text-align: left;
+    border-radius: 5px;
+}
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: left;
+    width: 48%;
+}
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    float: right;
+    width: 48%;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: 1;
+}
+.woocommerce form .form-row {
+    padding: 3px;
+    margin: 0 0 6px;
+}
+.woocommerce h2, .woocommerce h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 2.6em;
+    font-weight: 700;
+    line-height: 42px;
+    margin: 0 0 32px 0;
+}
+.woocommerce form label {
+    font-weight: bold;
+    color: #555;
+}
+label {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+label span {
+    color: red;
+    margin-left: 5px;
+}
+.woocommerce input.button {
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #32c5d2;
+    color: #fff;
+}
+.woocommerce input.button {
+    margin: 0;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    overflow: visible;
+    padding: auto 5px;
+    font-weight: 700;
+    border-radius: 3px;
+    left: auto;
+    border: 0;
+    white-space: nowrap;
+    display: inline-block;
+    background-image: none;
+
+    -webkit-box-shadow: none;
+    text-shadow: none;
+}
+input, button, select, textarea, label {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.breadcrumb-wrap {
+    padding: 15px 0;
+    background-image: url(../images/shadow-bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #f6f6f6;
+    border-top: 1px solid #d2d3d4;
+    border-bottom: 1px solid #d2d3d4;
+}
+@media (min-width: 768px)
+bootstrap.css:1791
+.col-sm-6 {
+    width: 50%;
+}
+.woocommerce form.register input[type="submit"] {
+    width: 100%;
+}
+.woocommerce input.button{
+    padding: .690em 1em;
+}
+.woocommerce input[type="text"], .woocommerce input[type="password"], .woocommerce input[type="email"], .woocommerce input[type="url"], .woocommerce input[type="tel"], .woocommerce input[type="date"], .woocommerce input[type="search"], .woocommerce textarea, .woocommerce select {
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    background-image: none;
+    display: block;
+    height: 34px;
+    line-height: 1.42857;
+    width: 100%;
+    border-radius: 2px;
+    font-size: 13px;
+}
+.woocommerce form .form-row label.inline {
+    display: inline;
+}
+p {
+    color: #555;
+    line-height: 24px;
+    margin: 0 0 20px;
+}
+.woocommerce form.login a {
+    border-bottom: 1px dotted #ccc;
+}
+.woocommerce form .form-row {
+    padding: 3px;
+    margin: 0 0 6px;
+}

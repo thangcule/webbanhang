@@ -1,0 +1,108 @@
+.woocommerce-checkout .woocommerce-billing-fields h3 {
+    border-top: 2px solid #eee;
+    color: #333;
+    font-size: 26px;
+    margin: 30px 0 25px;
+    padding-top: 25px;
+}
+
+.woocommerce h2, .woocommerce h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.woocommerce-shipping-fields h3#ship-to-different-address {
+    border-bottom: 1px dotted #ccc;
+    border-top: 1px dotted #ccc;
+    font-size: 18px;
+    margin-bottom: 30px;
+    padding: 11px 0;
+}
+.woocommerce form .form-row label {
+    line-height: 2;
+}
+.woocommerce form .form-row .input-text, .woocommerce-page form .form-row .input-text {
+    box-sizing: border-box;
+    width: 100%;
+}
+.woocommerce form .form-row textarea {
+    height: 4em;
+    line-height: 1.5;
+    display: block;
+
+    box-shadow: none;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: 1;
+}
+.woocommerce form .form-row .required {
+    color: red;
+    font-weight: 700;
+    border: 0;
+}
+.woocommerce form .form-row label {
+    line-height: 2;
+}
+label {
+
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+.woocommerce input[type="text"], .woocommerce input[type="password"], .woocommerce input[type="email"], .woocommerce input[type="url"], .woocommerce input[type="tel"], .woocommerce input[type="date"], .woocommerce input[type="search"], .woocommerce textarea, .woocommerce select {
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    background-image: none;
+    display: block;
+    height: 34px;
+    line-height: 1.42857;
+    width: 100%;
+    border-radius: 2px;
+    font-size: 13px;
+}
+input, button, select, textarea, label {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+p {
+    color: #555;
+    line-height: 24px;
+    margin: 0 0 20px;
+}
+#add_payment_method .checkout .col-2 h3#ship-to-different-address, .woocommerce-cart .checkout .col-2 h3#ship-to-different-address, .woocommerce-checkout .checkout .col-2 h3#ship-to-different-address {
+    float: left;
+    clear: none;
+}
+.woocommerce-shipping-fields h3#ship-to-different-address label.checkbox {
+    display: inline;
+    font-weight: bold;
+    color: #555;
+    padding-left: 0px;
+}
+.woocommerce-checkout h3#order_review_heading {
+    border-top: 2px solid #32c5d2;
+    font-size: 26px;
+    margin: 30px 0 25px;
+    padding-top: 25px;
+}
+.create-account{
+	margin-bottom: 30px;
+}
+.woocommerce-checkout #payment ul.payment_methods {
+    text-align: left;
+    padding: 1em;
+    border-bottom: 1px solid #d3ced2;
+    margin: 0;
+    list-style: none;
+}
+.woocommerce-checkout #payment div.form-row {
+    padding: 1em;
+}
+.wc_payment_methods{
+}
+#add_payment_method #payment div.form-row, .woocommerce-cart #payment div.form-row, .woocommerce-checkout #payment div.form-row {
+    padding: 1em;
+}
